@@ -1288,8 +1288,8 @@ p {
 
 .blog-date {
     padding: 5px 15px;
-    background: #f8f9fa;
-    box-shadow: inset 5px 5px 10px #e2e2e2, inset -5px -5px 10px #e8e8e8;
+    background: #ffa413;
+   
     display: inline-block;
     border-radius: 8px;
     font-size: 14px;
