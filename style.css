@@ -1387,7 +1387,7 @@ p {
 }
 
 .footer-logo {
-    margin-bottom: 30px;
+    margin-inline-end: 60px;
 }
 
 .footer-info .social-icon {
