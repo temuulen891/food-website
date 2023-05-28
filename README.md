@@ -4,4 +4,4 @@
 <a href="https://temuulen891.github.io/food-website/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-<img src="https://github.com/temuulen891/food-website/assets/images/testimonials/Screenshot(43).png"></img
+<img src="https://github.com/temuulen891/food-website/assets/images/Screenshot(43).png"></img
